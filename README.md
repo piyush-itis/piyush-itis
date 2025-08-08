@@ -60,7 +60,9 @@
 
 ---
 
-## 📊 **Score Board**
+<div align="center">
+<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&weight=400&size=18&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&width=400&height=50&lines=SCOREBOARD" alt="SCOREBOARD" />
+</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=piyush-itis&theme=github_dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&title_color=00FF41&text_color=ffffff&icon_color=FF0080&bg_color=0D1117" alt="GitHub Stats" />
