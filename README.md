@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/piyush-itis/piyush-itis/main/bounties-main-card.gif" alt="Profile GIF" width="700" />
+  <img src="https://raw.githubusercontent.com/piyush-itis/piyush-itis/main/bounties-main-card.gif" alt="Profile GIF" width="800" />
 </div>
 
 ---
