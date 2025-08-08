@@ -1,4 +1,4 @@
-```
+# Piyush Sharma
 
 <div align="center">
   <img src="https://readme-typing-svg.vercel.app/?font=Orbitron&weight=700&size=28&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=100&lines=SYSTEM%20INITIALIZED;WELCOME%20TO%20THE%20MATRIX;ACCESS%20GRANTED%20-%20ENTER%20THE%20CODE" alt="Retro Typing" />
