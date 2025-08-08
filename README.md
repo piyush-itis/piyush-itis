@@ -1,117 +1,117 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,ff6b6b,4ecdc4,45b7d1&height=200&section=header&text=Piyush%20Sharma&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Tech%20Innovator%20%7C%20Digital%20Architect&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,ff0080,00ff41,00ffff,ff6b35&height=200&section=header&text=Competitive%20Programmer&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Piyush%20Sharma%20%7C%20Code%20Warrior%20%7C%20Pixel%20Art%20Enthusiast&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&height=100&lines=Hello%2C%20I'm%20Piyush!;Building%20the%20future%20with%20code;Innovation%20meets%20excellence;Let's%20create%20something%20amazing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&weight=400&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=100&lines=Hello%2C%20I'm%20Piyush!;Welcome%20to%20my%20pixel%20world;Let's%20code%20some%20magic;Ready%20for%20the%20challenge" alt="Pixel Typing" />
 </div>
 
 <div align="center">
   <a href="https://github.com/piyush-itis?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-100+-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Repositories-100+-FF0080?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
   <a href="https://github.com/piyush-itis?tab=stars">
     <img src="https://img.shields.io/badge/Stars-50+-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Stars" />
   </a>
   <a href="https://github.com/piyush-itis?tab=followers">
-    <img src="https://img.shields.io/badge/Followers-100+-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
+    <img src="https://img.shields.io/badge/Followers-100+-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="Followers" />
   </a>
   <a href="https://github.com/piyush-itis?tab=following">
-    <img src="https://img.shields.io/badge/Following-50+-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="Following" />
+    <img src="https://img.shields.io/badge/Following-50+-00FFFF?style=for-the-badge&logo=github&logoColor=black" alt="Following" />
   </a>
 </div>
 
 ---
 
-## 🎯 **About Me**
+## 🎮 **Pixel Profile**
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyush-itis&theme=github_dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&title_color=6366F1&text_color=ffffff&icon_color=6366F1&bg_color=0D1117&hide=contribs,issues" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyush-itis&theme=github_dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&title_color=00FF41&text_color=ffffff&icon_color=FF0080&bg_color=0D1117&hide=contribs,issues" alt="Profile Details" />
 </div>
 
-> *"Code is the poetry of logic, and I'm crafting the future one algorithm at a time."* - Me
+> *"In a world of pixels and code, I create digital adventures one algorithm at a time."* - Pixel Warrior
 
-I'm a **Full Stack Developer** with a passion for creating innovative solutions that push the boundaries of what's possible. When I'm not immersed in code, you'll find me exploring cutting-edge technologies, contributing to revolutionary open-source projects, or mentoring the next generation of developers.
+I'm a **Competitive Programmer** and **Full Stack Developer** who lives in a world where pixels meet code. When I'm not solving complex algorithms or building innovative applications, you'll find me in my cozy pixel-art workspace, surrounded by retro gaming vibes and cutting-edge technology.
 
-### 🌟 **What drives me:**
-- 🚀 **Building the future** - Creating applications that change lives
-- 🔧 **Elegant problem-solving** - Turning complex challenges into simple solutions
-- 🌱 **Continuous evolution** - Staying ahead of the tech curve
-- 🤝 **Global collaboration** - Working with brilliant minds worldwide
-- 💡 **Innovation first** - Breaking conventional boundaries
+### 🌟 **My Quest:**
+- 🚀 **Level Up** - Mastering new technologies and frameworks
+- 🔧 **Power-Up** - Solving complex problems with elegant solutions
+- 🌱 **1UP** - Continuous learning and skill development
+- 🤝 **Multiplayer** - Collaborating with amazing developers worldwide
+- 💡 **Secret Code** - Breaking conventional boundaries with innovation
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🛠️ **Tech Arsenal**
 
-### **Frontend Technologies**
+### **Frontend Power-Ups**
 <div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00FF41" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00FF41" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=00FF41" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=00FF41" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=00FF41" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=00FF41" alt="Sass" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=00FF41" alt="Redux" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=00FF41" alt="GraphQL" />
 </div>
 
-### **Backend Technologies**
+### **Backend Boss Battles**
 <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=00FF41" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=00FF41" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=00FF41" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=00FF41" alt="Django" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=00FF41" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=00FF41" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=00FF41" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=00FF41" alt="Redis" />
 </div>
 
-### **DevOps & Cloud**
+### **Cloud & DevOps Kingdom**
 <div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=00FF41" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=00FF41" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=00FF41" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=00FF41" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=00FF41" alt="Azure" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=00FF41" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=00FF41" alt="Jenkins" />
 </div>
 
-### **Tools & Platforms**
+### **Tools & Consoles**
 <div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
-</div>
-
----
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=piyush-itis&theme=github_dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&title_color=6366F1&text_color=ffffff&icon_color=6366F1&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=piyush-itis&theme=github_dark&hide_border=true&utcOffset=5.5&title_color=6366F1&text_color=ffffff&icon_color=6366F1&bg_color=0D1117" alt="Productive Time" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piyush-itis&theme=github_dark&hide_border=true&title_color=6366F1&text_color=ffffff&icon_color=6366F1&bg_color=0D1117" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=piyush-itis&theme=github_dark&hide_border=true&title_color=6366F1&text_color=ffffff&icon_color=6366F1&bg_color=0D1117" alt="Most Commit Language" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-itis&theme=github-dark&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=ffffff&currStreakLabel=6366F1&sideNums=ffffff&sideLabels=6366F1&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=00FF41" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=00FF41" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=00FF41" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=00FF41" alt="Figma" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=00FF41" alt="Notion" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=00FF41" alt="Slack" />
 </div>
 
 ---
 
-## 🚀 **Featured Projects**
+## 📊 **Score Board**
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=piyush-itis&theme=github_dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&title_color=00FF41&text_color=ffffff&icon_color=FF0080&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=piyush-itis&theme=github_dark&hide_border=true&utcOffset=5.5&title_color=00FF41&text_color=ffffff&icon_color=FF0080&bg_color=0D1117" alt="Productive Time" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piyush-itis&theme=github_dark&hide_border=true&title_color=00FF41&text_color=ffffff&icon_color=FF0080&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=piyush-itis&theme=github_dark&hide_border=true&title_color=00FF41&text_color=ffffff&icon_color=FF0080&bg_color=0D1117" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-itis&theme=github-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=FF0080&fire=00FFFF&currStreakNum=ffffff&currStreakLabel=00FF41&sideNums=ffffff&sideLabels=FF0080&dates=00FFFF" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🚀 **Active Quests**
 
 <div align="center">
   <table>
@@ -120,7 +120,7 @@ I'm a **Full Stack Developer** with a passion for creating innovative solutions 
         <h3 align="center">🎯 AI-Powered E-Commerce Platform</h3>
         <div align="center">
           <a href="https://github.com/piyush-itis/ai-ecommerce" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush-itis&repo=ai-ecommerce&theme=github_dark&hide_border=true&title_color=6366F1&text_color=ffffff&icon_color=6366F1&bg_color=0D1117" width="100%" alt="AI E-Commerce"/>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush-itis&repo=ai-ecommerce&theme=github_dark&hide_border=true&title_color=00FF41&text_color=ffffff&icon_color=FF0080&bg_color=0D1117" width="100%" alt="AI E-Commerce"/>
           </a>
         </div>
         <p align="center">
@@ -134,7 +134,7 @@ I'm a **Full Stack Developer** with a passion for creating innovative solutions 
         <h3 align="center">🔥 Blockchain DeFi Application</h3>
         <div align="center">
           <a href="https://github.com/piyush-itis/defi-app" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush-itis&repo=defi-app&theme=github_dark&hide_border=true&title_color=6366F1&text_color=ffffff&icon_color=6366F1&bg_color=0D1117" width="100%" alt="DeFi App"/>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush-itis&repo=defi-app&theme=github_dark&hide_border=true&title_color=00FF41&text_color=ffffff&icon_color=FF0080&bg_color=0D1117" width="100%" alt="DeFi App"/>
           </a>
         </div>
         <p align="center">
@@ -150,7 +150,7 @@ I'm a **Full Stack Developer** with a passion for creating innovative solutions 
         <h3 align="center">⚡ Real-time Chat Application</h3>
         <div align="center">
           <a href="https://github.com/piyush-itis/realtime-chat" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush-itis&repo=realtime-chat&theme=github_dark&hide_border=true&title_color=6366F1&text_color=ffffff&icon_color=6366F1&bg_color=0D1117" width="100%" alt="Real-time Chat"/>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush-itis&repo=realtime-chat&theme=github_dark&hide_border=true&title_color=00FF41&text_color=ffffff&icon_color=FF0080&bg_color=0D1117" width="100%" alt="Real-time Chat"/>
           </a>
         </div>
         <p align="center">
@@ -164,7 +164,7 @@ I'm a **Full Stack Developer** with a passion for creating innovative solutions 
         <h3 align="center">🎮 Game Development Engine</h3>
         <div align="center">
           <a href="https://github.com/piyush-itis/game-engine" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush-itis&repo=game-engine&theme=github_dark&hide_border=true&title_color=6366F1&text_color=ffffff&icon_color=6366F1&bg_color=0D1117" width="100%" alt="Game Engine"/>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush-itis&repo=game-engine&theme=github_dark&hide_border=true&title_color=00FF41&text_color=ffffff&icon_color=FF0080&bg_color=0D1117" width="100%" alt="Game Engine"/>
           </a>
         </div>
         <p align="center">
@@ -180,13 +180,13 @@ I'm a **Full Stack Developer** with a passion for creating innovative solutions 
 
 ---
 
-## 🎯 **Current Goals & Achievements**
+## 🏆 **Achievements & Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=piyush-itis&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&title-color=6366F1&text-color=ffffff&icon-color=6366F1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=piyush-itis&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&title-color=00FF41&text-color=ffffff&icon-color=FF0080" alt="GitHub Trophies" />
 </div>
 
-### 🎯 **2024 Goals**
+### 🎯 **2024 Mission Objectives**
 - [ ] **Contribute to 200+ open source projects**
 - [ ] **Master advanced cloud architecture (Multi-cloud)**
 - [ ] **Build a full-stack AI/ML platform**
@@ -196,7 +196,7 @@ I'm a **Full Stack Developer** with a passion for creating innovative solutions 
 - [ ] **Launch 5+ innovative products**
 - [ ] **Achieve AWS Solutions Architect certification**
 
-### 🏆 **Recent Achievements**
+### 🏅 **Recent Achievements**
 - ✅ **2000+ GitHub contributions** in 2023
 - ✅ **100+ repositories** created and maintained
 - ✅ **50+ open source contributions** to major projects
@@ -207,41 +207,41 @@ I'm a **Full Stack Developer** with a passion for creating innovative solutions 
 
 ---
 
-## 🌟 **Let's Connect & Collaborate**
+## 🌟 **Multiplayer Connections**
 
 <div align="center">
   <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=00FF41" alt="Twitter" />
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Gmail" />
   </a>
   <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=00FF41" alt="Portfolio" />
   </a>
   <a href="https://dev.to/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=00FF41" alt="Dev.to" />
   </a>
   <a href="https://medium.com/@your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=00FF41" alt="Medium" />
   </a>
   <a href="https://discord.gg/your-server" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=00FF41" alt="Discord" />
   </a>
 </div>
 
 ---
 
-## 🎉 **Fun Facts About Me**
+## 🎉 **Character Stats**
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-itis&layout=compact&theme=github_dark&hide_border=true&title_color=6366F1&text_color=ffffff&icon_color=6366F1&bg_color=0D1117" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-itis&layout=compact&theme=github_dark&hide_border=true&title_color=00FF41&text_color=ffffff&icon_color=FF0080&bg_color=0D1117" alt="Top Languages" />
       </td>
       <td align="center">
         <ul align="left">
@@ -260,10 +260,10 @@ I'm a **Full Stack Developer** with a passion for creating innovative solutions 
 
 ---
 
-## 📈 **GitHub Activity Graph**
+## 📈 **Activity Map**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-itis&theme=github-dark&hide_border=true&area=true&area_color=6366F1&line=6366F1&point=ffffff&color=ffffff&bg_color=0D1117" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-itis&theme=github-dark&hide_border=true&area=true&area_color=00FF41&line=FF0080&point=00FFFF&color=ffffff&bg_color=0D1117" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -277,17 +277,17 @@ I'm a **Full Stack Developer** with a passion for creating innovative solutions 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=piyush-itis&style=flat-square&color=6366F1&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=piyush-itis&style=flat-square&color=00FF41&label=PROFILE+VIEWS" alt="Profile Views" />
   
-  ### 🚀 **Ready to build something amazing together?**
+  ### 🚀 **Ready to start a new quest together?**
   
   > *"The best way to predict the future is to invent it."* - Alan Kay
   
   **Feel free to reach out for collaborations, mentorship, or just to say hello! 👋**
   
-  <img src="https://img.shields.io/badge/Status-Available%20for%20collaboration-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20collaboration-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="Status" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,ff6b6b,4ecdc4,45b7d1&height=120&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,ff0080,00ff41,00ffff,ff6b35&height=120&section=footer" alt="Footer" />
 </div> 
