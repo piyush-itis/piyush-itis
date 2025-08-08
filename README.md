@@ -4,10 +4,9 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/piyush-itis/piyush-itis/main/bounties-main-card.gif" alt="Profile GIF" width="820" />
+  <img src="https://raw.githubusercontent.com/piyush-itis/piyush-itis/main/bounties-main-card.gif" alt="Profile GIF" width="840" />
 </div>
 
----
 
 <div align="center">
 <img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&weight=400&size=18&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&width=400&height=50&lines=SKILLS%20%26%20EXPERTISE" alt="SKILLS & EXPERTISE" />
