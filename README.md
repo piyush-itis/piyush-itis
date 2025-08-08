@@ -116,20 +116,15 @@
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Profile%20Views-00FF41?style=for-the-badge&logo=terminal&logoColor=black" alt="Profile Views" />
-        <br/>
-        <img src="https://komarev.com/ghpvc/?username=piyush-itis&style=flat-square&color=00FF41&label=VISITORS" alt="Profile Views" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Status-ONLINE-00FF41?style=for-the-badge&logo=terminal&logoColor=black" alt="Status" />
-        <br/>
-        <img src="https://img.shields.io/badge/Available%20for%20collaboration-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="Collaboration" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/piyush-itis">
+    <img src="https://komarev.com/ghpvc/?username=piyush-itis&style=for-the-badge&color=00FF41&label=PROFILE+VISITORS" alt="Profile Visitors" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-ONLINE-00FF41?style=for-the-badge&logo=terminal&logoColor=black" alt="Status" />
+  <img src="https://img.shields.io/badge/Available%20for%20collaboration-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="Collaboration" />
+  <img src="https://img.shields.io/badge/Open%20to%20work-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" alt="Open to Work" />
 </div>
 
 <div align="center">
