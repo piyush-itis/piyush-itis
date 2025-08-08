@@ -3,21 +3,6 @@
   <img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&weight=400&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=100&lines=Hello%2C%20I'm%20Piyush!;Welcome%20to%20my%20pixel%20world;Let's%20code%20some%20magic;Ready%20for%20the%20challenge" alt="Pixel Typing" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/piyush-itis?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-100+-FF0080?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-  </a>
-  <a href="https://github.com/piyush-itis?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-50+-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Stars" />
-  </a>
-  <a href="https://github.com/piyush-itis?tab=followers">
-    <img src="https://img.shields.io/badge/Followers-100+-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="Followers" />
-  </a>
-  <a href="https://github.com/piyush-itis?tab=following">
-    <img src="https://img.shields.io/badge/Following-50+-00FFFF?style=for-the-badge&logo=github&logoColor=black" alt="Following" />
-  </a>
-</div>
-
 ---
 
 ## 🎮 **Pixel Profile**
