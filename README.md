@@ -80,167 +80,33 @@
 
 ---
 
-## 🚀 **Active Quests**
-
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🎯 AI-Powered E-Commerce Platform</h3>
-        <div align="center">
-          <a href="https://github.com/piyush-itis/ai-ecommerce" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush-itis&repo=ai-ecommerce&theme=github_dark&hide_border=true&title_color=00FF41&text_color=ffffff&icon_color=FF0080&bg_color=0D1117" width="100%" alt="AI E-Commerce"/>
-          </a>
-        </div>
-        <p align="center">
-          <strong>Tech Stack:</strong> React, Node.js, TensorFlow, MongoDB, Redis
-        </p>
-        <p align="center">
-          <strong>Features:</strong> AI recommendations, real-time analytics, microservices
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🔥 Blockchain DeFi Application</h3>
-        <div align="center">
-          <a href="https://github.com/piyush-itis/defi-app" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush-itis&repo=defi-app&theme=github_dark&hide_border=true&title_color=00FF41&text_color=ffffff&icon_color=FF0080&bg_color=0D1117" width="100%" alt="DeFi App"/>
-          </a>
-        </div>
-        <p align="center">
-          <strong>Tech Stack:</strong> Next.js, Solidity, Web3.js, PostgreSQL
-        </p>
-        <p align="center">
-          <strong>Features:</strong> Smart contracts, yield farming, liquidity pools
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">⚡ Real-time Chat Application</h3>
-        <div align="center">
-          <a href="https://github.com/piyush-itis/realtime-chat" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush-itis&repo=realtime-chat&theme=github_dark&hide_border=true&title_color=00FF41&text_color=ffffff&icon_color=FF0080&bg_color=0D1117" width="100%" alt="Real-time Chat"/>
-          </a>
-        </div>
-        <p align="center">
-          <strong>Tech Stack:</strong> Vue.js, Socket.io, Express.js, MongoDB
-        </p>
-        <p align="center">
-          <strong>Features:</strong> Real-time messaging, file sharing, video calls
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🎮 Game Development Engine</h3>
-        <div align="center">
-          <a href="https://github.com/piyush-itis/game-engine" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush-itis&repo=game-engine&theme=github_dark&hide_border=true&title_color=00FF41&text_color=ffffff&icon_color=FF0080&bg_color=0D1117" width="100%" alt="Game Engine"/>
-          </a>
-        </div>
-        <p align="center">
-          <strong>Tech Stack:</strong> C++, OpenGL, GLFW, ImGui
-        </p>
-        <p align="center">
-          <strong>Features:</strong> 3D rendering, physics engine, asset management
-        </p>
-      </td>
-    </tr>
-  </table>
+<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&weight=400&size=18&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&width=400&height=50&lines=CONTACT%20%26%20ME" alt="CONTACT ME" />
 </div>
 
----
-
-## 🏆 **Achievements & Trophies**
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=piyush-itis&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&title-color=00FF41&text-color=ffffff&icon-color=FF0080" alt="GitHub Trophies" />
-</div>
-
-### 🎯 **2024 Mission Objectives**
-- [ ] **Contribute to 200+ open source projects**
-- [ ] **Master advanced cloud architecture (Multi-cloud)**
-- [ ] **Build a full-stack AI/ML platform**
-- [ ] **Develop blockchain applications**
-- [ ] **Mentor 100+ junior developers**
-- [ ] **Speak at 10+ tech conferences**
-- [ ] **Launch 5+ innovative products**
-- [ ] **Achieve AWS Solutions Architect certification**
-
-### 🏅 **Recent Achievements**
-- ✅ **2000+ GitHub contributions** in 2023
-- ✅ **100+ repositories** created and maintained
-- ✅ **50+ open source contributions** to major projects
-- ✅ **10+ hackathon wins** and recognitions
-- ✅ **5+ tech conference talks** and workshops
-- ✅ **3+ patents** filed for innovative solutions
-- ✅ **1000+ developers** mentored worldwide
-
----
-
-## 🌟 **Multiplayer Connections**
-
-<div align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://linkedin.com/in/piyushitis" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
+  <a href="https://twitter.com/0xshawarma" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=00FF41" alt="Twitter" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:piyush21sh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Gmail" />
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="https://piyushfolio.tech" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=00FF41" alt="Portfolio" />
   </a>
-  <a href="https://dev.to/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=00FF41" alt="Dev.to" />
-  </a>
-  <a href="https://medium.com/@your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=00FF41" alt="Medium" />
-  </a>
-  <a href="https://discord.gg/your-server" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=00FF41" alt="Discord" />
-  </a>
 </div>
 
 ---
-
-## 🎉 **Character Stats**
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-itis&layout=compact&theme=github_dark&hide_border=true&title_color=00FF41&text_color=ffffff&icon_color=FF0080&bg_color=0D1117" alt="Top Languages" />
-      </td>
-      <td align="center">
-        <ul align="left">
-          <li>🔥 **Problem Solver:** I love tackling complex challenges</li>
-          <li>🌱 **Lifelong Learner:** Always exploring new technologies</li>
-          <li>🚀 **Innovation Driven:** Building the future, one commit at a time</li>
-          <li>🤝 **Community Builder:** Passionate about helping others grow</li>
-          <li>💡 **Creative Thinker:** Turning ideas into elegant solutions</li>
-          <li>🎯 **Goal Oriented:** Setting and achieving ambitious targets</li>
-          <li>🌟 **Mentor:** Guiding the next generation of developers</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&weight=400&size=18&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&width=400&height=50&lines=ACTIVITY%20%26%20GRAPH" alt="ACTIVITY GRAPH" />
 </div>
-
----
-
-## 📈 **Activity Map**
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-itis&theme=github-dark&hide_border=true&area=true&area_color=00FF41&line=FF0080&point=00FFFF&color=ffffff&bg_color=0D1117" alt="GitHub Activity Graph" />
-</div>
-
----
-
-## 🎵 **Currently Vibing To**
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your-spotify-username&count=1&width=400" alt="Spotify Recently Played" />
 </div>
 
 ---
