@@ -132,11 +132,10 @@
 </div>
 
 <div align="center">
-  > *"The best way to predict the future is to invent it."* - Alan Kay
   
   **Feel free to reach out for collaborations, mentorship, or just to say hello! 👋**
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,ff0080,00ff41,00ffff,ff6b35&height=120&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=footer" alt="Footer" />
 </div> 
