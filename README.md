@@ -3,6 +3,10 @@
   <img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&weight=400&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=100&lines=Hello%2C%20I'm%20Piyush!;Welcome%20to%20my%20pixel%20world;Let's%20code%20some%20magic;Ready%20for%20the%20challenge" alt="Pixel Typing" />
 </div>
 
+<div align="center">
+  <img src="YOUR_GIF_URL_HERE" alt="Profile GIF" width="600" />
+</div>
+
 ---
 
 <div align="center">
@@ -125,10 +129,6 @@
   <img src="https://img.shields.io/badge/Status-ONLINE-00FF41?style=for-the-badge&logo=terminal&logoColor=black" alt="Status" />
   <img src="https://img.shields.io/badge/Available%20for%20collaboration-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="Collaboration" />
   <img src="https://img.shields.io/badge/Open%20to%20work-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" alt="Open to Work" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&weight=400&size=14&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&width=600&height=40&lines=Ready%20to%20start%20a%20new%20quest%20together?;Let's%20build%20something%20amazing!;Innovation%20meets%20excellence" alt="Call to Action" />
 </div>
 
 <div align="center">
