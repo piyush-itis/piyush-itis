@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,ff0080,00ff41,00ffff,ff6b35&height=200&section=header&text=Competitive%20Programmer&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Piyush%20Sharma%20%7C%20Code%20Warrior%20%7C%20Pixel%20Art%20Enthusiast&descAlignY=55&descAlign=50" alt="Header" />
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&weight=400&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=100&lines=Hello%2C%20I'm%20Piyush!;Welcome%20to%20my%20pixel%20world;Let's%20code%20some%20magic;Ready%20for%20the%20challenge" alt="Pixel Typing" />
