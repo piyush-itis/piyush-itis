@@ -6,7 +6,7 @@
 ---
 
 
-## 🛠️ **SKILLS & EXPERTISE**
+## <img src="https://readme-typing-svg.vercel.app/?font=Google+Sans+Code&weight=700&size=32&duration=1&pause=1000&color=00FF41&center=true&vCenter=true&width=400&height=50&lines=SKILLS%20%26%20EXPERTISE" alt="SKILLS & EXPERTISE" />
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00FF41" alt="React" />
