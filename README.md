@@ -116,9 +116,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/piyush-itis">
-    <img src="https://komarev.com/ghpvc/?username=piyush-itis&style=for-the-badge&color=00FF41&label=PROFILE+VISITORS" alt="Profile Visitors" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyush-itis&theme=github_dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&title_color=00FF41&text_color=ffffff&icon_color=FF0080&bg_color=0D1117&hide=contribs,issues" alt="Profile Details" />
 </div>
 
 <div align="center">
