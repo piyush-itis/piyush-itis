@@ -5,24 +5,6 @@
 
 ---
 
-## 🎮 **Pixel Profile**
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyush-itis&theme=github_dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&title_color=00FF41&text_color=ffffff&icon_color=FF0080&bg_color=0D1117&hide=contribs,issues" alt="Profile Details" />
-</div>
-
-> *"In a world of pixels and code, I create digital adventures one algorithm at a time."* - Pixel Warrior
-
-I'm a **Competitive Programmer** and **Full Stack Developer** who lives in a world where pixels meet code. When I'm not solving complex algorithms or building innovative applications, you'll find me in my cozy pixel-art workspace, surrounded by retro gaming vibes and cutting-edge technology.
-
-### 🌟 **My Quest:**
-- 🚀 **Level Up** - Mastering new technologies and frameworks
-- 🔧 **Power-Up** - Solving complex problems with elegant solutions
-- 🌱 **1UP** - Continuous learning and skill development
-- 🤝 **Multiplayer** - Collaborating with amazing developers worldwide
-- 💡 **Secret Code** - Breaking conventional boundaries with innovation
-
----
 
 ## 🛠️ **Tech Arsenal**
 
