@@ -112,15 +112,34 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=piyush-itis&style=flat-square&color=00FF41&label=PROFILE+VIEWS" alt="Profile Views" />
-  
-  ### 🚀 **Ready to start a new quest together?**
-  
+  <img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&weight=400&size=16&duration=1&pause=1000&color=00FF41&center=true&vCenter=true&width=500&height=40&lines=PROFILE%20STATISTICS" alt="PROFILE STATISTICS" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Profile%20Views-00FF41?style=for-the-badge&logo=terminal&logoColor=black" alt="Profile Views" />
+        <br/>
+        <img src="https://komarev.com/ghpvc/?username=piyush-itis&style=flat-square&color=00FF41&label=VISITORS" alt="Profile Views" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Status-ONLINE-00FF41?style=for-the-badge&logo=terminal&logoColor=black" alt="Status" />
+        <br/>
+        <img src="https://img.shields.io/badge/Available%20for%20collaboration-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="Collaboration" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&weight=400&size=14&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&width=600&height=40&lines=Ready%20to%20start%20a%20new%20quest%20together?;Let's%20build%20something%20amazing!;Innovation%20meets%20excellence" alt="Call to Action" />
+</div>
+
+<div align="center">
   > *"The best way to predict the future is to invent it."* - Alan Kay
   
   **Feel free to reach out for collaborations, mentorship, or just to say hello! 👋**
-  
-  <img src="https://img.shields.io/badge/Status-Available%20for%20collaboration-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="Status" />
 </div>
 
 <div align="center">
