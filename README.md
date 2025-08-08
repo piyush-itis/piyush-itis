@@ -81,7 +81,7 @@
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&weight=400&size=18&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&width=400&height=50&lines=CONTACT%20%26%20ME" alt="CONTACT ME" />
+<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&weight=400&size=18&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&width=400&height=50&lines=CONTACT%20ME" alt="CONTACT ME" />
 </div>
 
 <div align="center">
@@ -102,7 +102,7 @@
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&weight=400&size=18&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&width=400&height=50&lines=ACTIVITY%20%26%20GRAPH" alt="ACTIVITY GRAPH" />
+<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&weight=400&size=18&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&width=400&height=50&lines=ACTIVITY%20GRAPH" alt="ACTIVITY GRAPH" />
 </div>
 
 <div align="center">
