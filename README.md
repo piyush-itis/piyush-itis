@@ -91,7 +91,7 @@
   <a href="https://linkedin.com/in/piyushitis" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/0xshawarma" target="_blank">
+  <a href="https://twitter.com/piyushyrr" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=00FF41" alt="Twitter" />
   </a>
   <a href="mailto:piyush21sh@gmail.com">
